@@ -34,7 +34,7 @@ Więcej: [Set up Git — dokumentacja GitHuba](https://docs.github.com/en/get-st
 
 ### Krok 2. Zainstaluj Pythona
 
-Potrzebny jest **Python 3.10 lub nowszy** (polecamy najnowszą stabilną wersję).
+Potrzebny jest **Python 3.11 lub nowszy** (polecamy najnowszą stabilną wersję).
 
 1. Pobierz instalator: **<https://www.python.org/downloads/>**
 2. Zainstaluj:
@@ -143,6 +143,9 @@ Colab uruchamia notebooki w przeglądarce, na serwerach Google. Wszystkie potrze
    |---|---|
    | 1 — demo | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ml-course-pg/ml-course-pg-2026/blob/main/01-wprowadzenie/01_demo_workflow_ml.ipynb) `01_demo_workflow_ml.ipynb` |
    | 1 — zadanie grupowe | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ml-course-pg/ml-course-pg-2026/blob/main/01-wprowadzenie/02_zadanie_grupowe_hotele.ipynb) `02_zadanie_grupowe_hotele.ipynb` |
+   | 2 — demo: ocena modeli | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ml-course-pg/ml-course-pg-2026/blob/main/02-ocena-i-dane/01_demo_ocena_modeli.ipynb) `01_demo_ocena_modeli.ipynb` |
+   | 2 — demo: lepsze dane | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ml-course-pg/ml-course-pg-2026/blob/main/02-ocena-i-dane/02_demo_lepsze_dane.ipynb) `02_demo_lepsze_dane.ipynb` |
+   | 2 — zadanie grupowe | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ml-course-pg/ml-course-pg-2026/blob/main/02-ocena-i-dane/03_zadanie_grupowe_kredyty.ipynb) `03_zadanie_grupowe_kredyty.ipynb` |
 
    Każdy inny notebook otworzysz przez **<https://colab.research.google.com>** → **File → Open notebook → GitHub** → wklej `ml-course-pg/ml-course-pg-2026`.
 3. **Zapisz własną kopię:** **File → Save a copy in Drive**. Bez tego Twoje zmiany przepadną po zamknięciu karty.
