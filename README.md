@@ -147,6 +147,11 @@ Colab uruchamia notebooki w przeglądarce, na serwerach Google. Wszystkie potrze
    | 2 — demo: ocena modeli | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ml-course-pg/ml-course-pg-2026/blob/main/02-ocena-i-dane/01_demo_ocena_modeli.ipynb) `01_demo_ocena_modeli.ipynb` |
    | 2 — demo: lepsze dane | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ml-course-pg/ml-course-pg-2026/blob/main/02-ocena-i-dane/02_demo_lepsze_dane.ipynb) `02_demo_lepsze_dane.ipynb` |
    | 2 — zadanie grupowe | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ml-course-pg/ml-course-pg-2026/blob/main/02-ocena-i-dane/03_zadanie_grupowe_kredyty.ipynb) `03_zadanie_grupowe_kredyty.ipynb` |
+   | 3 — demo: drzewo decyzyjne | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ml-course-pg/ml-course-pg-2026/blob/main/03-drzewa/01_demo_drzewo_decyzyjne.ipynb) `01_demo_drzewo_decyzyjne.ipynb` |
+   | 3 — demo: zespoły drzew | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ml-course-pg/ml-course-pg-2026/blob/main/03-drzewa/02_demo_zespoly_drzew.ipynb) `02_demo_zespoly_drzew.ipynb` |
+   | 3 — zadanie grupowe | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ml-course-pg/ml-course-pg-2026/blob/main/03-drzewa/03_zadanie_grupowe_kredyty.ipynb) `03_zadanie_grupowe_kredyty.ipynb` |
+
+   **Zajęcia 3 w Colabie:** XGBoost i LightGBM są zwykle zainstalowane, CatBoost trzeba doinstalować w pierwszej komórce: `!pip install catboost`.
 
    Każdy inny notebook otworzysz przez **<https://colab.research.google.com>** → **File → Open notebook → GitHub** → wklej `ml-course-pg/ml-course-pg-2026`.
 3. **Zapisz własną kopię:** **File → Save a copy in Drive**. Bez tego Twoje zmiany przepadną po zamknięciu karty.
